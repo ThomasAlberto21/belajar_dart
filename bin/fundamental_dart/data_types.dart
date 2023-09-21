@@ -7,12 +7,13 @@ void main() {
   String greetings = "Hello World"; // String (Kumpulan karakter)
   bool isTrue = true; // Boolean (Nilai benar/salah)
   dynamic dynamicData = "Hello World"; // Dynamic (Tipe data apa pun)
+  /*
   list listData = [1, 2, 3, 4, 5]; // List (Kumpulan data)
   map mapData = {
     "name": "John Doe",
     "age": 20
   }; // Map (Kumpulan data dengan key dan value)
-
+  */
 
   // TODO : Membuat program input dan output sederhana
   /*
