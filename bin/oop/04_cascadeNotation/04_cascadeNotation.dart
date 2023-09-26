@@ -2,7 +2,7 @@
 import 'animal.dart';
 
 void main() {
-  var personData = Person('', 'Jakarta', 23)
+  var personData = Animal('', 'Jakarta', 23)
     ..name = 'Dian'
     ..eat();
 }

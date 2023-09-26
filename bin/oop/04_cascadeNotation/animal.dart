@@ -1,9 +1,9 @@
-class Person {
+class Animal {
   String name = '';
   String address = '';
   int age = 0;
 
-  Person(this.name, this.address, this.age);
+  Animal(this.name, this.address, this.age);
 
   void eat(){
     print('$name is eating');
