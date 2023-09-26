@@ -1,3 +1,5 @@
+// TODO : Class merupakan sebuah blueprint untuk membuat objek. Di dalam kelas ini kita mendefinisikan sifat (attribute) dan perilaku (behaviour) dari objek yang akan dibuat.
+
 class Animal {
   String name;
   int age;
