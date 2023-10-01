@@ -7,12 +7,12 @@ var myNumber = 10;
 
 // Deklarasi variabel dengan tipe data dynamic
 var myVariable;
-myVariable = 10; // myVariable akan memiliki tipe data int
-myVariable = "Hello World"; // myVariable akan memiliki tipe data String
+// myVariable = 10; // myVariable akan memiliki tipe data int
+// myVariable = "Hello World"; // myVariable akan memiliki tipe data String
 
 // Deklarasi variabel dengan tipe data yang ditentukan
 int myAge = 20;
 
 // Deklarasi variabel dengan tipe data yang ditentukan berdasarkan nilai
-var myName = "John Doe";
-myName = "Jane Doe"; // myName akan tetap memiliki tipe data String
+// var myName = "John Doe";
+// myName = "Jane Doe"; // myName akan tetap memiliki tipe data String
